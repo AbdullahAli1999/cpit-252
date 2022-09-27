@@ -1,0 +1,4 @@
+INFO: A new order was created
+INFO: Order info:
+Order number: 1972904030
+Date2022-09-20
